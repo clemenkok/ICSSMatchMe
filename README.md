@@ -1,12 +1,12 @@
 # ICSS Match Me
-[![CodeFactor](https://www.codefactor.io/repository/github/shiyinq/anonim-chat/badge/main)](https://www.codefactor.io/repository/github/shiyinq/anonim-chat/overview/main)
-![Lines of code](https://img.shields.io/tokei/lines/github/Shiyinq/anonim-chat)
-![GitHub repo size](https://img.shields.io/github/repo-size/Shiyinq/anonim-chat)
-[![GitHub top language](https://img.shields.io/github/languages/top/Shiyinq/anonim-chat)](https://github.com/Shiyinq/anonim-chat)
+[![CodeFactor](https://www.codefactor.io/repository/github/clemenkok/ICSSMatchMe/badge/main)](https://www.codefactor.io/repository/github/clemenkok/ICSSMatchMe/overview/main)
+![Lines of code](https://img.shields.io/tokei/lines/github/clemenkok/ICSSMatchMe)
+![GitHub repo size](https://img.shields.io/github/repo-size/clemenkok/ICSSMatchMe)
+[![GitHub top language](https://img.shields.io/github/languages/top/clemenkok/ICSSMatchMe)](https://github.com/clemenkok/ICSSMatchMe)
 
-![GitHub last commit](https://img.shields.io/github/last-commit/Shiyinq/anonim-chat)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/w/Shiyinq/anonim-chat)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Shiyinq/anonim-chat)
+![GitHub last commit](https://img.shields.io/github/last-commit/clemenkok/ICSSMatchMe)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/w/clemenkok/ICSSMatchMe)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/clemenkok/ICSSMatchMe)
 
 Forked from [Anonymous Chat](https://github.com/Shiyinq/anonim-chat)
 
