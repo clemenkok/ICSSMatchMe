@@ -14,8 +14,8 @@ Forked from [Anonymous Chat](https://github.com/Shiyinq/anonim-chat)
 - mongodb v5
 
 ## Running on your local machine
-- ```git clone https://github.com/Shiyinq/anonim-chat.git```
-- ```cd anonim-chat```
+- ```git clone https://github.com/clemenkok/ICSSMatchMe.git```
+- ```cd ICSSMatchMe```
 - ```npm install```
 - rename ```.env.example``` to ```.env``` and edit ```.env``` with your own bot token and mongo uri
 - ```npm run dev```
