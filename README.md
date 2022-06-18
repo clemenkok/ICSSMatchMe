@@ -24,4 +24,4 @@ Forked from [Anonymous Chat](https://github.com/Shiyinq/anonim-chat)
 - change ```npm run dev``` and recomended using [pm2](https://pm2.keymetrics.io/)
 
 ## Try this bot
-[![Bot](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/IcssMatchMe)
+[![Bot](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/IcssMatchMeBot)
