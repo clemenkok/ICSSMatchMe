@@ -1,5 +1,4 @@
 # ICSS Match Me
-[![CodeFactor](https://www.codefactor.io/repository/github/clemenkok/ICSSMatchMe/badge/main)](https://www.codefactor.io/repository/github/clemenkok/ICSSMatchMe/overview/main)
 ![Lines of code](https://img.shields.io/tokei/lines/github/clemenkok/ICSSMatchMe)
 ![GitHub repo size](https://img.shields.io/github/repo-size/clemenkok/ICSSMatchMe)
 [![GitHub top language](https://img.shields.io/github/languages/top/clemenkok/ICSSMatchMe)](https://github.com/clemenkok/ICSSMatchMe)
