@@ -8,7 +8,7 @@
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/Shiyinq/anonim-chat)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Shiyinq/anonim-chat)
 
-Forked from ![Anonymous Chat]https://github.com/Shiyinq/anonim-chat
+Forked from [Anonymous Chat](https://github.com/Shiyinq/anonim-chat)
 
 ## Requirements
 - node js v14
